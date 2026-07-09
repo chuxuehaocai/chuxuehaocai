@@ -17,7 +17,7 @@
 
 ---
 
-## About / 关于我 / 自己紹介
+## About 
 
 <table>
 <tr>
@@ -26,9 +26,6 @@
 ### 中文
 
 我是 **chuxuehaocai**。  
-主要写 JVM 生态相关的东西，喜欢 **Kotlin**，也常用 **Java**。
-
-关注后端、Minecraft 客户端/模组、运行时与工程化。
 
 </td>
 <td width="33%">
