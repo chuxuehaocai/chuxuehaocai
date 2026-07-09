@@ -23,30 +23,9 @@
 <tr>
 <td width="33%">
 
-### 中文
-
 我是 **chuxuehaocai**。  
+我怎么样取决于你，而不是我。你觉得我怎么样我就是怎么样的。
 
-</td>
-<td width="33%">
-
-### English
-
-JVM-side developer from Mainland China.  
-I enjoy building things with **Kotlin**, **Java**, and clean architecture.
-
-Currently learning **Python**, **Rust**, and **x86 asm**.
-
-</td>
-<td width="33%">
-
-### 日本語
-
-こんにちは、**chuxuehaocai** です。  
-Kotlin が一番好きです。
-
-プロセカと音楽が好き。  
-推しは **宵崎奏**。
 
 </td>
 </tr>
@@ -64,24 +43,11 @@ Kotlin が一番好きです。
 ![Gradle](https://img.shields.io/badge/Build-Gradle-625B71?style=flat-square&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Build-Maven-7D5260?style=flat-square&logo=apachemaven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-4A4458?style=flat-square&logo=intellijidea&logoColor=white)
-
-![Python](https://img.shields.io/badge/Learning-Python-386A20?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Learning-Rust-984061?style=flat-square&logo=rust&logoColor=white)
 ![x86 ASM](https://img.shields.io/badge/Learning-x86%20asm-49454F?style=flat-square)
-![Linux](https://img.shields.io/badge/Tool-Linux-625B71?style=flat-square&logo=linux&logoColor=white)
-![MySQL](https://img.shields.io/badge/DB-MySQL-6750A4?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/DB-SQLite-7D5260?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
-```kotlin
-data class Chuxuehaocai(
-    val stack: List<String> = listOf("JVM", "Kotlin", "Java"),
-    val learning: List<String> = listOf("Python", "Rust", "x86 asm"),
-    val favoriteLanguage: String = "Kotlin",
-    val status: String = "cloudy, but still compiling"
-)
-```
 
 ---
 
@@ -94,7 +60,6 @@ data class Chuxuehaocai(
 ### Apple Ecosystem
 
 - **iPhone 16 Pro Max**
-- **MacBook Air (M2)**
 - **iPad Pro (M2)**
 - **Apple Watch Series 7**
 - **AirPods Pro 3**
@@ -110,8 +75,11 @@ GPU : AMD Radeon RX 580 2048SP 8G
 Type: Personal desktop / gaming PC
 ```
 
-适合写代码、打游戏、折腾环境。  
-For coding, gaming, and breaking things safely.
+### Laptop
+
+```txt
+Yoga Silm 7 (ES) with 8cx Next Gen, 16g+512g
+```
 
 </td>
 </tr>
@@ -119,55 +87,13 @@ For coding, gaming, and breaking things safely.
 
 ---
 
-## Repositories / 仓库
-
-<table>
-<tr>
-<td width="50%">
-
-### [FPSMaster-Edge](https://github.com/chuxuehaocai/FPSMaster-Edge)
-
-Java / GLSL · GPL-3.0  
-Fork of an open-source **Minecraft PvP client**.
-
-- Minecraft client-side development
-- Java-heavy codebase
-- Build / CI / release workflow exposure
-
-</td>
-<td width="50%">
-
-### [chuxuehaocai](https://github.com/chuxuehaocai/chuxuehaocai)
-
-Profile README repository.
-
-- Personal profile page
-- JVM / Kotlin / Java identity
-- Project Sekai, rhythm games, music
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [trashes](https://github.com/chuxuehaocai/trashes)
-
-Small public repository / archive.
-
-- Experiments
-- Temporary notes
-- Miscellaneous files
-
-</td>
-<td width="50%">
-
 ### Current Direction
 
 ```txt
 main      -> JVM / Kotlin / Java
 interest  -> Minecraft / backend / reverse engineering
 learning  -> Python / Rust / x86 assembly
-style     -> clean, quiet, maintainable
+style     -> shitcode
 ```
 
 </td>
@@ -184,11 +110,9 @@ style     -> clean, quiet, maintainable
 
 ### 音楽 / Music
 
-- Favorite band: **ヨルシカ / Yorushika**
+- Favorite band: **ヨルシカ**
 - Favorite song: **アンノウン・マザーグース**
-- Favorite producer: **稲葉曇 / Inabakumori**
-- Favorite VSinger: **初音ミク / Hatsune Miku**
-- Favorite VTB: **甘城なつき**
+- Favorite producer: **稲葉曇**
 
 </td>
 <td width="50%">
@@ -199,6 +123,7 @@ style     -> clean, quiet, maintainable
 - **Counter-Strike 2**
 - **Minecraft**
 - **osu!**
+- maimai
 
 </td>
 </tr>
@@ -219,7 +144,7 @@ style     -> clean, quiet, maintainable
 
 <div align="center">
 
-### 人の数だけ美学があるのに.
+## 人の数だけ美学がある。Isn't it?
 
 [![GitHub](https://img.shields.io/badge/GitHub-chuxuehaocai-6750A4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chuxuehaocai)
 
