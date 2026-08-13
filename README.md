@@ -59,9 +59,8 @@
 
 ### Apple Ecosystem
 
-- **iPhone 16 Pro Max**
+- **Xiaomi 15 (with LumineDroid)**
 - **iPad Pro (M2)**
-- **Apple Watch Series 7**
 - **AirPods Pro 3**
 
 </td>
