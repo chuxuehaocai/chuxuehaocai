@@ -35,7 +35,7 @@
 
 ```txt
 main      -> JVM / Kotlin / Java
-interest  -> Minecraft / backend / reverse engineering
+interest  -> Project sekai / backend / reverse engineering / maimai / millsage / nightcord at 25:00
 learning  -> Python / Rust / x86 assembly
 style     -> shitcode
 ```
