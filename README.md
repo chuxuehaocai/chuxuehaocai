@@ -45,5 +45,13 @@ style     -> shitcode
 </table>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chuxuehaocai)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-stats-extended.vercel.app/api?username=chuxuehaocai">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=chuxuehaocai&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=chuxuehaocai&theme=light_github" />
+  </picture>
+</a>
 
